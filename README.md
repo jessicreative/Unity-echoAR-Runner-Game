@@ -23,8 +23,7 @@ Feel free to reach out at [support@echoAR.xyz](support@echoAR.xyz) or join our [
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/56166919/121860111-61f84080-ccad-11eb-89dc-e233d81181ad.png)
+![image](https://user-images.githubusercontent.com/56166919/121860766-08444600-ccae-11eb-8231-b4423126537b.png)
 ![image](https://user-images.githubusercontent.com/56166919/121860256-86541d00-ccad-11eb-9d63-0d1825f968d4.png)
-![image](https://user-images.githubusercontent.com/56166919/121860351-9b30b080-ccad-11eb-83d8-6c8f93df437c.png)
-![image](https://user-images.githubusercontent.com/56166919/121860419-ad125380-ccad-11eb-9bdd-5b8f9490eaf0.png)
-![image](https://user-images.githubusercontent.com/56166919/121860500-c3201400-ccad-11eb-8277-281aa68ba1aa.png)
+![image](https://user-images.githubusercontent.com/56166919/121860799-11cdae00-ccae-11eb-8260-7adbad858ea9.png)
 ![image](https://user-images.githubusercontent.com/56166919/121860537-cadfb880-ccad-11eb-860b-8414a8ea6f40.png)
